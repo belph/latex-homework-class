@@ -1,0 +1,11 @@
+My LaTeX Homework Document Class
+
+Based heavily on this: https://github.com/jdavis/latex-homework-template
+
+Place .sty files and such in $TEXMF_HOME/tex/latex/homework
+
+You can save a `config.tex` file in the same directory to set defaults for
+different values (see `sample-config.tex` for an example).
+
+
+Licensed under GPLv3

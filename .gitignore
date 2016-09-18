@@ -1,0 +1,4 @@
+config.tex
+**/*.log
+**/*.pdf
+auto/**
